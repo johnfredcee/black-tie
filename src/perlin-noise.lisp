@@ -10,9 +10,6 @@
 ;;;;
 ;;;; There's another implementation here: http://www.koders.com/lisp/fid49FCA421DBCE60AFE806BBCD84887C14ECD487D5.aspx
 ;;;;
-;;;; It looks more extensive, but I just wanted to write my own to understand
-;;;; it better.
-;;;;
 ;;;; Also check this out some time in the future: http://www.gamedev.net/community/forums/mod/journal/journal.asp?jn=263350&reply_id=2889484
 
 (in-package :black-tie)

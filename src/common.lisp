@@ -63,6 +63,13 @@
   (format *standard-output* "~&D: ~A~%" msg))
 
 
+(defun vlength (v)
+  "Returns the length of vector V."
+  (loop for n across v
+        sum (* n n) into m
+        finally (return (sqrt m))))
+
+
 (defun write-to-file (name object)
   (with-open-file (f name :direction :output)
     (format f "~S~%" object)))

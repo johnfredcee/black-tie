@@ -18,4 +18,5 @@
                              (:file "common")
                              (:file "perlin-noise")
                              (:file "simplex-noise")
+                             (:file "voronoi")
                              (:file "noise-functions")))))

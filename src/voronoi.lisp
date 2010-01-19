@@ -4,7 +4,7 @@
 ;;;;
 ;;;; author: Erik Winkels (aerique@xs4all.nl)
 ;;;;
-;;;; See the LICENSE file in the root directory for more info.
+;;;; See the LICENSE file in the Black Tie root directory for more info.
 ;;;;
 ;;;; This is a suboptimal implementation with hopeless documentation.
 

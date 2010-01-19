@@ -4,7 +4,7 @@
 ;;;;
 ;;;; author: Erik Winkels (aerique@xs4all.nl)
 ;;;;
-;;;; See the LICENSE file in the Okra root directory for more info.
+;;;; See the LICENSE file in the Black Tie root directory for more info.
 
 (in-package :black-tie)
 

@@ -4,6 +4,8 @@
 ;;;;
 ;;;; author: Erik Winkels (aerique@xs4all.nl)
 ;;;;
+;;;; See the LICENSE file in the Black Tie root directory for more info.
+;;;;
 ;;;; o http://www.connectedpixel.com/blog/texture/marble
 
 ;;; Packages

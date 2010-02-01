@@ -40,7 +40,7 @@ This project is released under the simplified
 None.  See the examples/textures.lisp.
 
 
-<table align="center" width="100%">
+<table align="center" border="0" width="100%">
   <tr>
     <td align="center">
       <img src="http://www.aerique.net/software/black-tie/goo.png">
